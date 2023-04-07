@@ -1,0 +1,32 @@
+body {
+    margin: 1rem ;
+    font-size: large;
+    font-family: serif;
+}
+h1 {
+    margin-bottom: 0.5rem;
+}
+
+.task_value {
+    height: 1.5rem;
+}
+.task_submit {
+    height: 2rem;
+}
+
+#table {
+    background-color: papayawhip;
+    height: 600px;
+    border-radius: 1rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+li {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
